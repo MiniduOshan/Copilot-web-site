@@ -38,7 +38,8 @@ Feel free to **fork** this repository and contribute by improving the design, ad
 ---
 
 ## **📌 Video Tutorial**  
-Watch the complete tutorial on **YouTube:** [Click Here]((https://youtu.be/HzyU1blQZ6g)) 
+Watch the complete tutorial on **YouTube:** [Click Here](https://youtu.be/HzyU1blQZ6g)
+ 
 
 ---
 
